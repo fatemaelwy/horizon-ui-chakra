@@ -50,8 +50,7 @@ import { <<
     Text,
     useColorModeValue,
     useColorMode,
-    HStack >>>
-    >>> > 70 c7c2812d85f6d55b88765bb54dfbf967b18c24
+    HStack 
 } from "@chakra-ui/react";
 
 
@@ -70,8 +69,7 @@ import metaImage from "assets/img/walletLogos/MetaMask.png";
 import solImage from "assets/img/walletLogos/Solana.png";
 import wallConImage from "assets/img/walletLogos/WalletConnect.png";
 
->>>
->>> > 70 c7c2812d85f6d55b88765bb54dfbf967b18c24
+
 // Assets
 import navImage from "assets/img/layout/Navbar.png";
 import { MdNotificationsNone, MdInfoOutline } from "react-icons/md";
